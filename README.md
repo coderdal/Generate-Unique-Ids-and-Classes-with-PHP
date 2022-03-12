@@ -1,5 +1,5 @@
 
-## Preg Match All
+## Generate Unique Ids and Classes with PHP
 
 ### Function Usage
 

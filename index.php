@@ -94,7 +94,7 @@ $uniqueId = unique(); // Get a random id Name
 
     <div class="<?php echo $uniqueClass; ?>">
 
-        <h4>Hi I Have a Unique Class and I created by <a href="https://github.com/coderdal">CodErdal</a> </h4>
+        <h4>Hi I Have a Unique Class and I created by <a href="https://github.com/coderdal/Generate-Unique-Ids-and-Classes-with-PHP">CodErdal</a> </h4>
         <p>
             My ClassName are: <?php echo $uniqueClass; ?>
         </p>
@@ -103,7 +103,7 @@ $uniqueId = unique(); // Get a random id Name
 
     <div id="<?php echo $uniqueId; ?>">
 
-        <h4>Hey I Have a Unique Id and I created by <a href="https://github.com/coderdal">CodErdal</a> </h4>
+        <h4>Hey I Have a Unique Id and I created by <a href="https://github.com/coderdal/Generate-Unique-Ids-and-Classes-with-PHP">CodErdal</a> </h4>
         <p>
             My id are: <?php echo $uniqueId; ?>
         </p>
