@@ -3,7 +3,7 @@
 
 ### Function Usage
 ```php
-    unique($length=12); // Gives an unique string
+    unique(12); // Gives an unique string
 ```
 You can optionally use the parameter. By default, a 12 letter long unique key will be returned.
 
